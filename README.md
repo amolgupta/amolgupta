@@ -8,12 +8,8 @@
 
 #### Apps I have contributed to
 
-📦 [Relay](https://play.google.com/store/apps/details?id=co.relaytech.copilot)
-
-💱 [Wise(TransferWise)](https://play.google.com/store/apps/details?id=com.transferwise.android)
-
-✈️ 🏨 [Skyscanner](https://play.google.com/store/apps/details?id=net.skyscanner.android.main)
-
-🛏️ [Furlenco Android](https://play.google.com/store/apps/details?id=com.furlenco.android) and 🪑 [iOS](https://apps.apple.com/in/app/furlenco/id1134919232)
-
-🚌 [redbus](https://play.google.com/store/apps/details?id=in.redbus.android) and 🚍 [Seatseller](https://play.google.com/store/apps/details?id=psl.seatseller.android)
+- 📦 [Relay](https://play.google.com/store/apps/details?id=co.relaytech.copilot)
+- 💱 [Wise(TransferWise)](https://play.google.com/store/apps/details?id=com.transferwise.android)
+- ✈️ 🏨 [Skyscanner](https://play.google.com/store/apps/details?id=net.skyscanner.android.main)
+- 🛏️ [Furlenco Android](https://play.google.com/store/apps/details?id=com.furlenco.android) and 🪑 [iOS](https://apps.apple.com/in/app/furlenco/id1134919232)
+- 🚌 [redbus](https://play.google.com/store/apps/details?id=in.redbus.android) and 🚍 [Seatseller](https://play.google.com/store/apps/details?id=psl.seatseller.android)
